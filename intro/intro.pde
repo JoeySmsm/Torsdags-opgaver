@@ -1,0 +1,24 @@
+String forNavn="Joey ";
+String efterNavn="Smits";
+int antalDage=365;
+String hjemby="Hillerød";
+boolean erAktiv=true;
+int antalMinutter=60*24;
+double værdi=22.12;
+String studentName = "Joey Smits";
+String besked="Hej, jeg heddder "+studentName;
+boolean erLærer=false;
+double samletVærdi=2.2 + 33;
+String initialer = ""+forNavn.charAt(0)+"L"+efterNavn.charAt(0);
+
+System.out.println(forNavn);
+System.out.println(efterNavn);
+System.out.println(antalDage);
+System.out.println(hjemby);
+System.out.println(erAktiv);
+System.out.println(antalMinutter);
+System.out.println(værdi);
+System.out.println(besked);
+System.out.println(erLærer);
+System.out.println(samletVærdi);
+System.out.println(initialer);
